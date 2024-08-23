@@ -1,1 +1,2 @@
 # stock-market-prediction-using-daily-news-headlines
+This project is about predicting the BSE SENSEX index on the Mumbai stock exchange in India using daily news headlines. The stock market data of each day is collected from Yahoo finance. Combined both datasets to process and applied modeling techniques to get desired results. Different NLP techniques and machine learning models are used to address the problem defined.
